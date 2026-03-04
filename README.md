@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Anchal Katwal  
 
-<!--
-**anchalkawal522-creator/anchalkawal522-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Learning Full Stack  
+🌱 Currently working on JavaScript Projects  
+🎯 Goal: Become a Professional Web Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+- React (Learning)  
+
+---
+
+## 📂 Projects   
+🔹 Calculator App  
+🔹 Timer App  
+🔹 To-Do App  
+
+---
+
+## 🌐 Connect With Me  
+📧 Email: anchalkawal522@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/anchal-thakur-6ab034384/
+ 
+
+---
+
+⭐ Thanks for visiting my profile!
