@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 Skills  
-- HTML  
-- CSS  
+- HTML5
+- CSS3  
 - JavaScript  
 - Git & GitHub  
 - React (Learning)  
